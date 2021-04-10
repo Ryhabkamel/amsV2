@@ -1,7 +1,7 @@
 package com.sip.ams.configuration;
 import com.zaxxer.hikari.*;
 
-Mohamed Amine MEZGHICH amine.mezghich@gmail.com Spring Boot and Heroku
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.*;
 import javax.sql.DataSource;
